@@ -1,4 +1,4 @@
-<h1>🔗 Blinkit Data Analysis Dashboard</h1>
+<h1> Blinkit Data Analysis Dashboard</h1>
 
 <h2>Project Overview</h2>
 
@@ -47,3 +47,5 @@ for optimization using various KPIs and visualizations.
   <li>Data Visualization & KPI Analysis</li>
   <li>Business Intelligence Techniques</li>
 </ul>
+
+**NOTE:** This analysis was conducted as part of a project and is for educational purposes only.
