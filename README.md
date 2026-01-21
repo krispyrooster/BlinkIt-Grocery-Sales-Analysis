@@ -1,57 +1,49 @@
-Blinkit Data Analysis Dashboard 📊
+<h1>🔗 Blinkit Data Analysis Dashboard</h1>
 
-This repository contains a Power BI dashboard project focused on analyzing Blinkit’s sales performance, customer satisfaction, and inventory distribution. The dashboard leverages key performance indicators (KPIs) and interactive visualizations to uncover actionable business insights.
+<h2>Project Overview</h2>
 
-📌 Project Overview
+<p>
+This project presents a comprehensive <b>Power BI dashboard</b> for analyzing Blinkit's sales performance,
+customer satisfaction, and inventory distribution. The dashboard provides key insights and opportunities
+for optimization using various KPIs and visualizations.
+</p>
 
-The Blinkit Data Analysis Dashboard provides a data-driven view of business operations, helping stakeholders understand sales trends, customer preferences, and outlet performance across different dimensions such as location, size, and product type.
+<h2>Key Performance Indicators (KPIs)</h2>
 
-🔑 Key Performance Indicators (KPIs)
+<p>The dashboard focuses on the following primary KPIs:</p>
 
-Total Sales: $1.20M
+<ol>
+  <li><b>Total Sales:</b> Overall revenue generated from all items sold ($1.20M)</li>
+  <li><b>Average Sales:</b> Average revenue per sale ($141)</li>
+  <li><b>Number of Items:</b> Total count of different items sold (8,523)</li>
+  <li><b>Average Rating:</b> Average customer rating for items sold (3.9 out of 5)</li>
+</ol>
 
-Average Sales per Transaction: $141
+<h2>Features</h2>
 
-Number of Items Sold: 8,523
+<ul>
+  <li><b>Filter Panel:</b> Allows users to filter data by outlet location type, outlet size, and item type</li>
+  <li><b>Outlet Establishment Trend:</b> Visualizes the growth of outlet establishments from 2012 to 2022</li>
+  <li><b>Fat Content Analysis:</b> Breaks down sales by low-fat and regular-fat products</li>
+  <li><b>Item Type Distribution:</b> Shows sales distribution across various product categories</li>
+  <li><b>Outlet Size & Location Analysis:</b> Provides insights on sales performance by outlet size and location tier</li>
+  <li><b>Outlet Type Comparison:</b> Compares outlet types based on sales, items, ratings, and visibility</li>
+</ul>
 
-Average Customer Rating: 3.9 / 5
+<h2>Key Insights</h2>
 
-🚀 Dashboard Features
+<ul>
+  <li>Strong overall sales performance with over $1M in revenue</li>
+  <li>Growing consumer preference for low-fat products</li>
+  <li>Fruits, vegetables, and snack foods are top-selling categories</li>
+  <li>Medium-sized outlets in Tier 3 locations show the highest profitability</li>
+  <li>Supermarkets lead in sales volume, while grocery stores excel in item visibility</li>
+</ul>
 
-Interactive Filter Panel
-Filter data by outlet location type, outlet size, and item category.
+<h2>Tools & Technologies</h2>
 
-Outlet Establishment Trend (2012–2022)
-Visual representation of outlet growth over time.
-
-Fat Content Analysis
-Comparison of sales between low-fat and regular-fat products.
-
-Item Type Distribution
-Sales contribution across various product categories.
-
-Outlet Size & Location Insights
-Performance analysis based on outlet size and city tier.
-
-Outlet Type Comparison
-Comparison of supermarkets and grocery stores using metrics such as sales, item count, ratings, and visibility.
-
-📈 Key Insights
-
-Strong overall sales performance with over $1M in revenue
-
-Increasing consumer preference for low-fat products
-
-Fruits, vegetables, and snack foods are the top-selling categories
-
-Medium-sized outlets in Tier 3 locations generate the highest profitability
-
-Supermarkets lead in sales volume, while grocery stores excel in item visibility
-
-🛠 Tools & Technologies
-
-Power BI
-
-Data Visualization & KPI Analysis
-
-Business Intelligence Techniques
+<ul>
+  <li>Power BI</li>
+  <li>Data Visualization & KPI Analysis</li>
+  <li>Business Intelligence Techniques</li>
+</ul>
